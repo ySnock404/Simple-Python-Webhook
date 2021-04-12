@@ -8,7 +8,7 @@ Exemplo:
 <div>
 <img src="https://i.imgur.com/TDUhtgA.png)" />
 
- ------------
+ ----------------
  
 Codigo:
 ```python
