@@ -7,7 +7,7 @@ Um código simples para trazer alguma informação para o discord.
 Exemplo:
 <div>
 <img src="https://i.imgur.com/TDUhtgA.png)" />
-</div>
+
  ------------
  
 Codigo:
